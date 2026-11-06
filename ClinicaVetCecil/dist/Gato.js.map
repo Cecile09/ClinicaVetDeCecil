@@ -1,0 +1,1 @@
+{"version":3,"file":"Gato.js","sourceRoot":"","sources":["../src/Gato.ts"],"names":[],"mappings":";;;AAAA,qCAAkC;AAElC,UAAkB,SAAQ,eAAM;IAC5B,SAAS;QACL,OAAO,CAAC,GAAG,CAAC,GAAG,IAAI,CAAC,IAAI,aAAa,CAAC,CAAC;IAC3C,CAAC;IAED,iBAAiB;QACb,OAAO,CAAC,GAAG,CAAC,gBAAgB,IAAI,CAAC,IAAI,6BAA6B,CAAC,CAAC;IACxE,CAAC;CACJ"}

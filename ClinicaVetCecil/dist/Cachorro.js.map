@@ -1,0 +1,1 @@
+{"version":3,"file":"Cachorro.js","sourceRoot":"","sources":["../src/Cachorro.ts"],"names":[],"mappings":";;;AAAA,qCAAkC;AAElC,cAAsB,SAAQ,eAAM;IAChC,SAAS;QACL,OAAO,CAAC,GAAG,CAAC,GAAG,IAAI,CAAC,IAAI,cAAc,CAAC,CAAC;IAC5C,CAAC;IAED,iBAAiB;QACb,OAAO,CAAC,GAAG,CAAC,gBAAgB,IAAI,CAAC,IAAI,8BAA8B,CAAC,CAAC;IACzE,CAAC;CACJ"}
